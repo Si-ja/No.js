@@ -151,4 +151,8 @@ vite.config.ts.timestamp-*
 # Own observations and notes
 notes/
 src/
+package/
 tsconfig.json
+LICENSE
+package-lock.json
+package.json

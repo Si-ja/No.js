@@ -150,5 +150,4 @@ vite.config.ts.timestamp-*
 
 # Own observations and notes
 notes/
-src/
-tsconfig.json
+package/

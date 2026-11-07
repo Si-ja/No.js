@@ -24,7 +24,7 @@ import App from "nojs/package/Nojs.js"
 const app_name = "Your cool NOT new app name here!";
 const app = new App(app_name);
 
-console.log(app.printName());
+console.log(app.getName());
 app.init();
 ```
 
